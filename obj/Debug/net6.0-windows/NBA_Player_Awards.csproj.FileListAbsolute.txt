@@ -1,0 +1,22 @@
+C:\Users\MCA\source\repos\NBA_Player_Awards\bin\Debug\net6.0-windows\NBA_Player_Awards.exe
+C:\Users\MCA\source\repos\NBA_Player_Awards\bin\Debug\net6.0-windows\NBA_Player_Awards.deps.json
+C:\Users\MCA\source\repos\NBA_Player_Awards\bin\Debug\net6.0-windows\NBA_Player_Awards.runtimeconfig.json
+C:\Users\MCA\source\repos\NBA_Player_Awards\bin\Debug\net6.0-windows\NBA_Player_Awards.dll
+C:\Users\MCA\source\repos\NBA_Player_Awards\bin\Debug\net6.0-windows\NBA_Player_Awards.pdb
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards_MarkupCompile.cache
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards_MarkupCompile.lref
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards.g.resources
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards.AssemblyInfo.cs
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards.dll
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\refint\NBA_Player_Awards.dll
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards.pdb
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\NBA_Player_Awards.genruntimeconfig.cache
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\ref\NBA_Player_Awards.dll
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\Charlie Brown Awards.g.cs
+C:\Users\MCA\source\repos\NBA_Player_Awards\obj\Debug\net6.0-windows\Charlie Brown Awards.baml

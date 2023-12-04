@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NBA_Player_Awards/1.0.0": {
+        "runtime": {
+          "NBA_Player_Awards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NBA_Player_Awards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
